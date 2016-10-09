@@ -6,7 +6,7 @@
 
 (function (window, document) {
 
-	Croppic = function (id, options) {
+	Croppicqiniu = function (id, options) {
 
 		var that = this;
 		that.id = id;
@@ -59,7 +59,7 @@
 		
 	};
 
-	Croppic.prototype = {
+	Croppicqiniu.prototype = {
 		id:'',
 		imgInitW:0,
 		imgInitH:0,
