@@ -1,12 +1,12 @@
 {
-  "name": "croppicqiniu",
+  "name": "croppic-qiniu",
   "homepage": "http://www.croppic.net",
   "version": "1.0.3",
   "authors": [
-    "Mat Steinlin <mat@steinlinconsulting.com> (http://www.steinlincosnulting.com)",
-	"Ognjen Božičković"
+    "king <king@unwest.com> (http://www.unwest.com)",
+	"Kingstudio"
   ],
-  "description": "The image cropping jquery plugin that will satisfy your needs and much more",  
+  "description": "The image cropping jquery plugin for qiniu",  
   "license": "MIT",  
   "main": [
     "croppicqiniu.js",
