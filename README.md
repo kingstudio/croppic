@@ -1,27 +1,6 @@
-Croppic
+Croppic qiniu
 =======
-
-see full documentation at http://www.croppic.net/
-
-Browser compatibility
----------------------
-
-Croppic works in most major browsers (yes, now even in IE9):
-
-- **IE8**: Untested
-- **IE9**: Works!
-- **IE10+**: Works!
-- **Safari 4+**: Works!
-- **Firefox 3+**: Works!
-- **Chrome 14+**: Works!
-- **Opera 15+**: Works!
-
-Support
--------
-
-Please don't contact me by email for support. The right place to get support is here:
-[Croppic Issues](https://github.com/sconsult/croppic/issues) 
-
+Croppic for qiniu
 
 MIT LICENSE
 -----------
