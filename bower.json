@@ -1,5 +1,5 @@
 {
-  "name": "croppic",
+  "name": "croppicqiniu",
   "homepage": "http://www.croppic.net",
   "version": "1.0.3",
   "authors": [
@@ -9,12 +9,12 @@
   "description": "The image cropping jquery plugin that will satisfy your needs and much more",  
   "license": "MIT",  
   "main": [
-    "croppic.min.js",
-    "assets/css/croppic.css"
+    "croppicqiniu.js",
+    "assets/css/croppicqiniu.css"
   ],
   "keywords": [
     "crop",
-    "croppic"
+    "croppic-qiniu"
   ],
   "dependencies": {
     "jquery-mousewheel": "~3.1.12",
